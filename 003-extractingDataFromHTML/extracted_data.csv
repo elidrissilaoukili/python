@@ -1,0 +1,446 @@
+Question,Options,new
+The processes by which data is collected,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+The process of moving data from the source into a computer system for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+Converting collected data into a form it can be used for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+Putting data into a data management system,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+Searching a query system displaying subsets of data,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+Boolean,"['Mathematics', 'Statistics', 'Computer Science']",
+Alphanumeric,"['Mathematics', 'Statistics', 'Computer Science']",
+Hexadecimal,"['Mathematics', 'Statistics', 'Computer Science']",
+Floating Point,"['Mathematics', 'Statistics', 'Computer Science']",
+Real Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+Complex Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+Rational Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+Interval,"['Mathematics', 'Statistics', 'Computer Science']",
+Nominal,"['Mathematics', 'Statistics', 'Computer Science']",
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+Using data that we have to estimate the data we wish we had,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+"Making everything work faster, more robustly, and at greater scale","['Data Modeling', 'Data Engineering', 'Data Analysis']",
+Turning raw data into knowledge that can be acted upon,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+harmony,"['YES', 'NO']",
+rhythm,"['YES', 'NO']",
+flow,"['YES', 'NO']",
+balance,"['YES', 'NO']",
+focus,"['YES', 'NO']",
+color,"['YES', 'NO']",
+texture,"['YES', 'NO']",
+shape,"['YES', 'NO']",
+form,"['YES', 'NO']",
+"Thinking in terms of algorithms, and implementing models.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+Thinking in terms of measurement and models how to represent them numerically.,"['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+"Thinking in terms of variables, and understanding central tendencies and correlations.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+"Thinking in terms of tables, and defining the rows, columns, and cells of the tables.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+The processes by which data is collected,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+The process of moving data from the source into a computer system for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Converting collected data into a form it can be used for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Putting data into a data management system,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Searching a query system displaying subsets of data,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Boolean,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Alphanumeric,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Hexadecimal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Floating Point,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Real Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Complex Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Rational Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Interval,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Nominal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Using data that we have to estimate the data we wish we had,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+"Making everything work faster, more robustly, and at greater scale","['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+Turning raw data into knowledge that can be acted upon,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+harmony,"['YES', 'NO']",
+,,
+rhythm,"['YES', 'NO']",
+,,
+flow,"['YES', 'NO']",
+,,
+balance,"['YES', 'NO']",
+,,
+focus,"['YES', 'NO']",
+,,
+color,"['YES', 'NO']",
+,,
+texture,"['YES', 'NO']",
+,,
+shape,"['YES', 'NO']",
+,,
+form,"['YES', 'NO']",
+,,
+"Thinking in terms of algorithms, and implementing models.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+Thinking in terms of measurement and models how to represent them numerically.,"['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+"Thinking in terms of variables, and understanding central tendencies and correlations.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+"Thinking in terms of tables, and defining the rows, columns, and cells of the tables.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+The processes by which data is collected,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+The process of moving data from the source into a computer system for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Converting collected data into a form it can be used for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Putting data into a data management system,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Searching a query system displaying subsets of data,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Boolean,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Alphanumeric,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Hexadecimal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Floating Point,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Real Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Complex Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Rational Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Interval,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Nominal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Using data that we have to estimate the data we wish we had,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+"Making everything work faster, more robustly, and at greater scale","['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+Turning raw data into knowledge that can be acted upon,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+harmony,"['YES', 'NO']",
+,,
+rhythm,"['YES', 'NO']",
+,,
+flow,"['YES', 'NO']",
+,,
+balance,"['YES', 'NO']",
+,,
+focus,"['YES', 'NO']",
+,,
+color,"['YES', 'NO']",
+,,
+texture,"['YES', 'NO']",
+,,
+shape,"['YES', 'NO']",
+,,
+form,"['YES', 'NO']",
+,,
+"Thinking in terms of algorithms, and implementing models.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+Thinking in terms of measurement and models how to represent them numerically.,"['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+"Thinking in terms of variables, and understanding central tendencies and correlations.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+"Thinking in terms of tables, and defining the rows, columns, and cells of the tables.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+The processes by which data is collected,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+The process of moving data from the source into a computer system for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Converting collected data into a form it can be used for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Putting data into a data management system,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Searching a query system displaying subsets of data,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Boolean,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Alphanumeric,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Hexadecimal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Floating Point,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Real Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Complex Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Rational Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Interval,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Nominal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Using data that we have to estimate the data we wish we had,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+"Making everything work faster, more robustly, and at greater scale","['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+Turning raw data into knowledge that can be acted upon,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+harmony,"['YES', 'NO']",
+,,
+rhythm,"['YES', 'NO']",
+,,
+flow,"['YES', 'NO']",
+,,
+balance,"['YES', 'NO']",
+,,
+focus,"['YES', 'NO']",
+,,
+color,"['YES', 'NO']",
+,,
+texture,"['YES', 'NO']",
+,,
+shape,"['YES', 'NO']",
+,,
+form,"['YES', 'NO']",
+,,
+"Thinking in terms of algorithms, and implementing models.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+Thinking in terms of measurement and models how to represent them numerically.,"['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+"Thinking in terms of variables, and understanding central tendencies and correlations.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+"Thinking in terms of tables, and defining the rows, columns, and cells of the tables.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+The processes by which data is collected,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+The process of moving data from the source into a computer system for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Converting collected data into a form it can be used for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Putting data into a data management system,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Searching a query system displaying subsets of data,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']",
+,,
+Boolean,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Alphanumeric,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Hexadecimal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Floating Point,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Real Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Complex Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Rational Numbers,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Interval,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Nominal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']",
+,,
+Using data that we have to estimate the data we wish we had,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+"Making everything work faster, more robustly, and at greater scale","['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+Turning raw data into knowledge that can be acted upon,"['Data Modeling', 'Data Engineering', 'Data Analysis']",
+,,
+harmony,"['YES', 'NO']",
+,,
+rhythm,"['YES', 'NO']",
+,,
+flow,"['YES', 'NO']",
+,,
+balance,"['YES', 'NO']",
+,,
+focus,"['YES', 'NO']",
+,,
+color,"['YES', 'NO']",
+,,
+texture,"['YES', 'NO']",
+,,
+shape,"['YES', 'NO']",
+,,
+form,"['YES', 'NO']",
+,,
+"Thinking in terms of algorithms, and implementing models.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+Thinking in terms of measurement and models how to represent them numerically.,"['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+"Thinking in terms of variables, and understanding central tendencies and correlations.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+"Thinking in terms of tables, and defining the rows, columns, and cells of the tables.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']",
+,,
+The processes by which data is collected,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+The process of moving data from the source into a computer system for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+Converting collected data into a form it can be used for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+Putting data into a data management system,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+Searching a query system displaying subsets of data,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+Boolean,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Alphanumeric,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Hexadecimal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Floating Point,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Real Numbers,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Complex Numbers,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Rational Numbers,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Interval,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Nominal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Using data that we have to estimate the data we wish we had,"['Data Modeling', 'Data Engineering', 'Data Analysis']","
+"
+"Making everything work faster, more robustly, and at greater scale","['Data Modeling', 'Data Engineering', 'Data Analysis']","
+"
+Turning raw data into knowledge that can be acted upon,"['Data Modeling', 'Data Engineering', 'Data Analysis']","
+"
+harmony,"['YES', 'NO']","
+"
+rhythm,"['YES', 'NO']","
+"
+flow,"['YES', 'NO']","
+"
+balance,"['YES', 'NO']","
+"
+focus,"['YES', 'NO']","
+"
+color,"['YES', 'NO']","
+"
+texture,"['YES', 'NO']","
+"
+shape,"['YES', 'NO']","
+"
+form,"['YES', 'NO']","
+"
+"Thinking in terms of algorithms, and implementing models.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']","
+"
+Thinking in terms of measurement and models how to represent them numerically.,"['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']","
+"
+"Thinking in terms of variables, and understanding central tendencies and correlations.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']","
+"
+"Thinking in terms of tables, and defining the rows, columns, and cells of the tables.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']","
+"
+The processes by which data is collected,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+The process of moving data from the source into a computer system for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+Converting collected data into a form it can be used for analysis,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+Putting data into a data management system,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+Searching a query system displaying subsets of data,"['Acquiring', 'Retrieving', 'Storing', 'Ingesting', 'Transforming']","
+"
+Boolean,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Alphanumeric,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Hexadecimal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Floating Point,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Real Numbers,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Complex Numbers,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Rational Numbers,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Interval,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Nominal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Ordinal,"['Mathematics', 'Statistics', 'Computer Science']","
+"
+Using data that we have to estimate the data we wish we had,"['Data Modeling', 'Data Engineering', 'Data Analysis']","
+"
+"Making everything work faster, more robustly, and at greater scale","['Data Modeling', 'Data Engineering', 'Data Analysis']","
+"
+Turning raw data into knowledge that can be acted upon,"['Data Modeling', 'Data Engineering', 'Data Analysis']","
+"
+harmony,"['YES', 'NO']","
+"
+rhythm,"['YES', 'NO']","
+"
+flow,"['YES', 'NO']","
+"
+balance,"['YES', 'NO']","
+"
+focus,"['YES', 'NO']","
+"
+color,"['YES', 'NO']","
+"
+texture,"['YES', 'NO']","
+"
+shape,"['YES', 'NO']","
+"
+form,"['YES', 'NO']","
+"
+"Thinking in terms of algorithms, and implementing models.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']","
+"
+Thinking in terms of measurement and models how to represent them numerically.,"['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']","
+"
+"Thinking in terms of variables, and understanding central tendencies and correlations.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']","
+"
+"Thinking in terms of tables, and defining the rows, columns, and cells of the tables.","['Thinking like a mathematician', 'Thinking like a data engineer', 'Thinking like a computer scientist', 'Thinking like a statistician']","
+"
